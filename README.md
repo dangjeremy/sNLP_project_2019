@@ -3,9 +3,9 @@ UCL Statistical Natural Language Processing Project
 
 Contents:
 
-Project Report
-Project Poster
-.ipynb code
+1) Project Report
+2) Project Poster
+3) Code folder containing .ipynb files
 
 Below are the notebooks
 ----------------------------------------------------

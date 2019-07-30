@@ -30,4 +30,4 @@ Below are the notebooks
 6) Applies a logistic regression classifier to Bag-of-Words features, and calculated the metrics on the test set
 7) As with (6), but using sentence embeddings derived from GloVe word embeddings as features
 8) As with (6), but using sentence embedding derived from a prrtained ELMo model as features
-9-11) Code and results from out initial attempt at using ELMo from TFhub and a dense layer as the classifier. 
+9)-11) Code and results from out initial attempt at using ELMo from TFhub and a dense layer as the classifier. 

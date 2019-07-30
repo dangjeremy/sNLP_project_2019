@@ -9,6 +9,7 @@ Project Poster
 
 Below are the notebooks
 ----------------------------------------------------
+
 1) Demonstration notebook
 2) Create datasets.ipynb
 3) Finetune BERT - find best hyperparameters.ipynb
@@ -18,8 +19,6 @@ Below are the notebooks
 7) Sentence Embeddings - GloVe.ipynb
 8) Sentence Embeddings ELMo.ipynb
 9) ELMO_TFhub.ipynb
-10)ELMo_TFhub_accs.zip
-11)ELMo_TFhub_weights.zip
 
 ----------------------------------------------------
 
